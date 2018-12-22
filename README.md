@@ -7,4 +7,4 @@
 4. Chrome
 
 ## Uruchamianie
-1. W konsoli ```python app.py```
+1. W konsoli ```python app.py```# Alexa
