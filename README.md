@@ -8,3 +8,4 @@
 
 ## Uruchamianie
 1. W konsoli ```python app.py```# Alexa
+# Alexa
